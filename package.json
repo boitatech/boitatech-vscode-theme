@@ -4,9 +4,16 @@
   "description": "The Boitatech VS Code theme!",
   "version": "1.2.2",
   "publisher": "Boitatech",
+  "license": "MIT",
+  "scripts": {
+    "build": "node ./scripts/build.js"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/boitatech/boitatech-vscode-theme"
+  },
+  "bugs": {
+    "url": "https://github.com/boitatech/boitatech-vscode-theme/issues"
   },
   "icon": "icon.png",
   "keywords": [
@@ -31,7 +38,7 @@
       {
         "label": "Boitatech",
         "uiTheme": "vs-dark",
-        "path": "./themes/Boitatech-color-theme.json"
+        "path": "./themes/Boitatech.json"
       }
     ]
   }
