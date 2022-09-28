@@ -1,8 +1,25 @@
 {
-  "name": "boitatheme",
-  "displayName": "BoitaTheme",
-  "description": "Boitatech Theme",
-  "version": "0.0.1",
+  "name": "boitatech",
+  "displayName": "Boitatech Theme",
+  "description": "The Boitatech VS Code theme!",
+  "version": "1.0.0",
+  "publisher": "Boitatech",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/boitatech/boitatech-vscode-theme"
+  },
+  "icon": "icon.png",
+  "keywords": [
+    "boitatech",
+    "theme",
+    "vscode",
+    "hacking",
+    "infosec",
+    "boitatech dark",
+    "dark infosec theme",
+    "red theme",
+    "dark red theme"
+  ],
   "engines": {
     "vscode": "^1.71.0"
   },
