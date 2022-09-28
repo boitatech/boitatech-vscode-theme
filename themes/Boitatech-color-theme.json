@@ -243,7 +243,7 @@
 		// Status Bar
 		"statusBar.background": "#1B1B1E",
 		"statusBar.debuggingBackground": "#ff8484",
-		"statusBar.debuggingForeground": "#111927",
+		"statusBar.debuggingForeground": "#252526",
 		"statusBar.foreground": "#a4b1cd",
 		"statusBar.noFolderBackground": "#1a2332",
 		"statusBar.noFolderForeground": "#a4b1cd",
@@ -273,13 +273,13 @@
 		"terminal.ansiRed": "#ff3e3e",
 		"terminal.ansiWhite": "#ffffff",
 		"terminal.ansiYellow": "#ffaf00",
-		"terminal.background": "#111927",
+		"terminal.background": "#252526",
 		"terminal.foreground": "#a4b1cd",
 		"terminalCursor.background": "#313f55",
 		// Text 
 		"textBlockQuote.background": "#141d2b",
 		"textBlockQuote.border": "#a4b1cd",
-		"textCodeBlock.background": "#111927",
+		"textCodeBlock.background": "#252526",
 		"textLink.activeForeground": "#c5f467",
 		"textLink.foreground": "#ee1212",
 		"textPreformat.foreground": "#2e6cff",
@@ -293,7 +293,7 @@
 		// Tree
 		"tree.indentGuidesStroke": "#D32828",
 		// Widget
-		"widget.shadow": "#1119277e",
+		"widget.shadow": "#252526",
 		"window.activeBorder": "#1a2332",
 		// Git
 		"gitDecoration.addedResourceForeground": "#9fef00",
