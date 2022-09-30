@@ -41,5 +41,10 @@
         "path": "./themes/Boitatech.json"
       }
     ]
+  },
+  "dependencies": {
+    "js-yaml": "^3.13.1",
+    "npm": "^8.19.2",
+    "tinycolor2": "^1.4.1"
   }
 }
