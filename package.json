@@ -38,7 +38,7 @@
       {
         "label": "Boitatech",
         "uiTheme": "vs-dark",
-        "path": "./themes/Boitatech.json"
+        "path": "./themes/boitatech.json"
       }
     ]
   },
