@@ -17,11 +17,3 @@ You can install this theme through the [Visual Studio Marketplace](https://marke
 3.  Click **Install** to install the theme
 4.  Click **Reload** to reload your editor
 5.  *File > Preferences > Settings > Workbench > Color Theme >* **Boitatech**
-6.  Optional: Use the recommended settings below for best experience
-
-## Installation via command line
-
-    $ git clone https://github.com/boitatech/boitatech-vscode-theme.git ~/.vscode/extensions/Boitatech  
-    $ cd ~/.vscode/extensions/Boitatech  
-    $ npm install && npm run build
-
